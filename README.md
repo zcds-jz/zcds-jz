@@ -40,7 +40,10 @@
 
 ## 技术文章
 
-- [零基础 Java 自学指南(翻译文章)](https://blog.csdn.net/qing_gee/article/details/104774776) 
+- [github入门](https://www.cnblogs.com/jz-no-bug/p/14907648.html) 
+- [python提高生产力](https://www.cnblogs.com/jz-no-bug/p/14904994.html)
+
+
 
 
     
