@@ -36,19 +36,13 @@
 
 ## 开源项目
 ###人证合一点录系统
-软件方面运用了springboot+mybatis+relax
+本人负责硬件开发、后端开发以及小程序开发。后端方面运用技术栈为springboot+mybatis+relax，主要功能有学生身份认证审核、点录信息反馈、大屏展示、调度分配等功能；硬件采用的是树莓派，运用python语言开发，主要功能有身份证识别、人脸识别、体温检测、热敏打印机信息反馈、地图指导等功能；小程序运用uni-app开发，同时开发多套小程序（微信、qq、抖音）主要功能有站内广播、报道流程跟踪、反馈志愿者信息、反馈导员信息、线上报到人证等功能。此项目多次运用于计算机二级等级考试、新生报到。此项目获得国家级创新创业立项、全国大学生程序设计大赛国家级二等奖；并通过此项目申请专利一项，发表国家级期刊两篇，申请软件著作权数十篇。
 
 ## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-- [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
-- [零基础 Java 自学指南(翻译文章)](https://blog.csdn.net/qing_gee/article/details/104774776) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
+- [零基础 Java 自学指南(翻译文章)](https://blog.csdn.net/qing_gee/article/details/104774776) 
 
-## 演讲和讲义
-（放置你代表公司在一些技术会议上做过的演讲，以及你在公司分享时制作的讲义）
 
-  - 2019年公司内部演讲：[还有一周呢，就无心撸码着急回家？](https://blog.csdn.net/qing_gee/article/details/103967005)
-  - 2020年公司内部分享：[这两个IDE插件，可以让你写出质量杠杠的代码](https://blog.csdn.net/qing_gee/article/details/103831517)
     
     
 # 技能清单
@@ -59,7 +53,7 @@
 - Web开发：Java/JavaScript
 - 后端框架：Spring MVC/Spring Boot
 - 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
+- 数据库相关：MySQL/SQLite/hadoop
 - 版本管理、文档和自动化部署工具：Svn/Git/Maven
 - 单元测试：JUnit/TestNG
       
